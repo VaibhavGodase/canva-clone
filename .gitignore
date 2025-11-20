@@ -1,0 +1,16 @@
+# Ignore entire client folder
+client/
+
+# Ignore all node_modules inside server and subfolders
+node_modules/
+
+# Common ignore patterns
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
+dist/
+build/
+coverage/
+
+instruction.txt/
