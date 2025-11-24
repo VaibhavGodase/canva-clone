@@ -1,7 +1,7 @@
-# Ignore entire client folder
-client/
+# Ignore server folder
+server/
 
-# Ignore all node_modules inside server and subfolders
+# Ignore node_modules
 node_modules/
 
 # Common ignore patterns
@@ -12,5 +12,4 @@ yarn-error.log
 dist/
 build/
 coverage/
-
 instruction.txt/
